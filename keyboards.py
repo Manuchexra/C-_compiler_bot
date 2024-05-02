@@ -1,6 +1,28 @@
 from telegram import ReplyKeyboardMarkup,KeyboardButton,InlineKeyboardMarkup,InlineKeyboardButton
 import db
-
+def home():
+    keyboard=ReplyKeyboardMarkup([
+        [KeyboardButton("📕English"),KeyboardButton("📓Matematika")],
+        [KeyboardButton("📚Dasturlash tillari")]],
+        resize_keyboard=True
+    )
+    return keyboard
+def English():
+    keyboard=ReplyKeyboardMarkup([
+        [KeyboardButton("📉Level")],
+        [KeyboardButton("Determine your level!")]],
+        resize_keyboard=True
+    )
+    return keyboard
+def Level():
+    keyboard=ReplyKeyboardMarkup([
+        [KeyboardButton("A1"),KeyboardButton("A2")],
+        [KeyboardButton("B1"),KeyboardButton("B2")],
+        [KeyboardButton("C1"),KeyboardButton("C2")]
+        ],
+        resize_keyboard=True
+    )
+    return keyboard
 def home_keyboard():
     keyboard = ReplyKeyboardMarkup(
         [
