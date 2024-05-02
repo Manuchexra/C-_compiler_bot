@@ -1,0 +1,23 @@
+{
+    "Essential1_quiz":{
+        "1":{"unit":"1","question":"afraid","options":["qo'rqgan, cho'chigan","yetib kelmoq, kelmoq","hujum qilmoq"],"answer":"qo'rqgan, cho'chigan"},
+        "2":{"unit":"1","question":"agree","options":["hujum qilmoq","fikriga qo'shilmoq, rozi bo'lmoq","qo'rqgan, cho'chigan"],"answer":"fikriga qo'shilmoq, rozi bo'lmoq"},
+        "3":{"unit":"1","question":"angry","options":["fikriga qo'shilmoq, rozi bo'lmoq","jahli chiqqan, badjahl","qo'rqgan, cho'chigan"],"answer":"jahli chiqqan, badjahl"},
+        "4":{"unit":"1","question":"arrive","options":["fikriga qo'shilmoq, rozi bo'lmoq","yetib kelmoq, kelmoq","jahli chiqqan, badjahl"],"answer":"yetib kelmoq, kelmoq"},
+        "5":{"unit":"1","question":"attact","options":["jahli chiqqan, badjahl","hujum qilmoq, hujum uyushtirmoq","qo'rqgan, cho'chigan"],"answer":"hujum qilmoq, hujum uyushtirmoq"},
+        "6":{"unit":"1","question":"bottom","options":["tag, pastki qism","aqlliy, ziyrak","qo'rqgan, cho'chigan"],"answer":"tag, pastki qism"},
+        "7":{"unit":"1","question":"clever","options":["aqlliy, ziyrak","tag, pastki qism","ahmoq, aqldan ozgan"],"answer":"aqlliy, ziyrak"},
+        "8":{"unit":"1","question":"cruel","options":["ahmoq, aqldan ozgan","aqlliy, ziyrak","shafqatsiz, berahm"],"answer":"shafqatsiz, berahm"},
+        "9":{"unit":"1","question":"finally","options":["axiyri, vanihoyat","ahmoq, aqldan ozgan","shafqatsiz, berahm"],"answer":"axiyri, vanihoyat"},
+        "10":{"unit":"1","question":"hide ","options":["ahmoq, aqldan ozgan","fikriga qo'shilmoq, rozi bo'lmoq","yashirinmoq, bekinmoq"],"answer":"yashirinmoq, bekinmoq"},
+        "11":{"unit":"1","question":"hunt","options":["ahmoq, aqldan ozgan","ov qilmoq, ovlamoq","shafqatsiz, berahm"],"answer":"ov qilmoq, ovlamoq"},
+        "12":{"unit":"1","question":"lot","options":["ahmoq, aqldan ozgan","juda ko'p","yetib kelmoq, kelmoq"],"answer":"juda ko'p"},
+        "13":{"unit":"1","question":"middle","options":["o'rta","juda ko'p","kam"],"answer":"o'rta"},
+        "14":{"unit":"1","question":"moment","options":["sekund, on, zum","ahmoq, aqldan ozgan","fikriga qo'shilmoq, rozi bo'lmoq"],"answer":"sekund, on, zum"},
+        "15":{"unit":"1","question":"pleased","options":["ahmoq, aqldan ozgan","hursand , mamnun","aqlliy, ziyrak"],"answer":"hursand , mamnun"},
+        "16":{"unit":"1","question":"promise","options":["va'da bermoq","hujum qilmoq","aqlliy, ziyrak"],"answer":"va'da bermoq"},
+        "17":{"unit":"1","question":"reply","options":["va'da bermoq","javob bermoq","axiyri, vanihoyat"],"answer":"javob bermoq"},
+        "18":{"unit":"1","question":"safe","options":["ahmoq, aqldan ozgan","hursand , mamnun","xavfsiz, bexatar"],"answer":"xavfsiz, bexatar"},
+        "19":{"unit":"1","question":"trick","options":["xavfsiz, bexatar","ahmoq, aqldan ozgan","xiyla, nayrang,fokus"],"answer":"xiyla, nayrang,fokus"},
+        "20":{"unit":"1","questi~on":"well","options":["juda ko'p","yaxshi","aqlliy, ziyrak"],"answer":"yaxshi"}
+}}
