@@ -11,6 +11,8 @@ def main() -> None:
     dispatcher.add_handler(MessageHandler(Filters.regex(r"📚Dasturlash tillari"), handlers.dasturlash_tillari))
     dispatcher.add_handler(MessageHandler(Filters.regex(r"📕English"), handlers.English))
     dispatcher.add_handler(MessageHandler(Filters.regex(r"📉Level"),handlers.Level))
+    dispatcher.add_handler(MessageHandler(Filters.regex(r"Determine your level!"),handlers.get_level))
+    dispatcher.add_handler(MessageHandler(Filters.regex(r"orqaga"),handlers.English))
     dispatcher.add_handler(MessageHandler(Filters.regex(r"^🗃️Topshiriqlar$"), handlers.send_task))
     dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, handlers.compile_cpp))
 

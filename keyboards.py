@@ -18,7 +18,8 @@ def Level():
     keyboard=ReplyKeyboardMarkup([
         [KeyboardButton("A1"),KeyboardButton("A2")],
         [KeyboardButton("B1"),KeyboardButton("B2")],
-        [KeyboardButton("C1"),KeyboardButton("C2")]
+        [KeyboardButton("C1"),KeyboardButton("C2")],
+        [KeyboardButton("orqaga")]
         ],
         resize_keyboard=True
     )
